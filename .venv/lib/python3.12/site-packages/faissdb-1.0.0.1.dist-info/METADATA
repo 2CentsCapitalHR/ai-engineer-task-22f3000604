@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: faissdb
+Version: 1.0.0.1
+Summary: Key Value Database for Vectors
+Home-page: https://faissdb.autoai.org
+Author: Xiaozhe Yao
+Author-email: xiaozhe.yaoi@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/composedb/faissdb/issues
+Project-URL: Documentation, https://aid.autoai.org
+Project-URL: Source Code, https://github.com/autoai-org/aid
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Image Recognition
+Classifier: Topic :: Software Development
+Description-Content-Type: text/markdown
+Requires-Dist: gunicorn
+Requires-Dist: uvicorn
+Requires-Dist: quart
+Requires-Dist: toml
+Requires-Dist: requests
+Requires-Dist: numpy
+Requires-Dist: werkzeug
+
+For full description, please go to [Documentation](https://aid.autoai.org)
+
+
